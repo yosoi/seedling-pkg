@@ -1,0 +1,12 @@
+{
+  "name": "com.yosoi.seedling",
+  "version": "0.1.0",
+  "displayName": "Seedling",
+  "description": "A random noise sampler for Unity.",
+  "unity": "2019.3",
+  "author": {
+    "name": "Yosoi",
+    "email": "yosoi@protonmail.com",
+    "url": "https://yosoi.io"
+  }
+}
